@@ -50,3 +50,10 @@
     "vite-plugin-eslint": "^1.8.1"
   }
 }
+
+{
+  "dependencies": {
+    "react-scripts": "x.x.x"
+  }
+}
+
